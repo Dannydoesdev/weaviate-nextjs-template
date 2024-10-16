@@ -75,7 +75,6 @@ Each operation is implemented as a server action, demonstrating how to integrate
 │   ├── rag-search.ts
 │   └── delete-collection.ts
 ├── types/
-│   └── weaviate-client.ts
 ├── utils/
 
 ```
